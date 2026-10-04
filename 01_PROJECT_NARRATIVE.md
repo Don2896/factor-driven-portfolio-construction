@@ -91,7 +91,7 @@ The most important insight this project produced is not a number. It is the obse
 
 The factor model cannot tell you whether NVDA's alpha will persist. It can only tell you it has existed historically. The optimiser cannot distinguish XOM's 2022 energy supercycle from a permanent structural shift in energy markets. It can only observe what happened. The VaR calculation cannot capture the specific character of a future crisis that differs from any historical precedent. It can only measure what past crises produced.
 
-What the models do — and do well — is impose rigorous structure on investment decisions. They force explicit choices about which factors matter, which assets provide genuine diversification, and what the realistic range of outcomes looks like rather than a single comfortable estimate. They produce numbers that can be challenged, debugged, and refined — unlike intuitive allocation decisions that often cannot be articulated precisely enough to be tested.
+What the models do is impose structure on investment decisions. They force explicit choices about which factors matter, which assets provide genuine diversification, and what the realistic range of outcomes looks like rather than a single comfortable estimate. They produce numbers that can be challenged, debugged, and refined — unlike intuitive allocation decisions that often cannot be articulated precisely enough to be tested.
 
 The combination of structured quantitative analysis and informed human judgment is how serious investment management works. This project demonstrates the quantitative half of that combination — the tools, the methodology, and the intellectual honesty about where those tools reach their limits.
 
